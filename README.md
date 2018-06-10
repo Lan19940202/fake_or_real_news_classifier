@@ -7,3 +7,7 @@ In this file, I vectorized the full text of the fake_or_real_news.csv using coun
 To improve the accuracy of the models, I have tried two types of stop word  —— one is the default stop word of the sci-kit-learn package, and the other one is scrapped from [Onix](http://www.lextek.com/manuals/onix/stopwords1.html) —— and tried 'gram_range' with different values. Also, I used Grid Search function to apply cross-validation to find the best parameter for naive bayes classifier. 
 
 The outcomes showed that both of the two classifiers performed better when using the downloaded stop words and (3,3) of the 'ngram_range' and the classifier with a tfidf vectorizer worked better(accuracy is 0.925).
+
+
+
+https://opendatascience.com/how-to-build-a-fake-news-classification-model/
