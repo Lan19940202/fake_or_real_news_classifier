@@ -8,6 +8,3 @@ To improve the accuracy of the models, I have tried two types of stop word  â€”â
 
 The outcomes showed that both of the two classifiers performed better when using the downloaded stop words and (3,3) of the 'ngram_range' and the classifier with a tfidf vectorizer worked better(accuracy is 0.925).
 
-
-
-https://opendatascience.com/how-to-build-a-fake-news-classification-model/
