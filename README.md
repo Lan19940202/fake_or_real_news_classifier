@@ -17,4 +17,4 @@ In this version, I used the pipeline to combine feature preprocessing method wit
 Besides, I used the Tfidf Vectorizer with the best parameters as my preprocessing method and tried Logistic Regression and Linear Support Vector Machine, which are two normally used algorithms during sentiment analysis. After fine tuning the parameters, the accuracy reaches 94.61% with logistic regression and 94.61% with linear SVC.
 
 **references**
-* Using pipline to combine feature preprocessing, feature engineering methods and also ML algorithms [Pipelines + GridSearch = Awesome ML pipelines](https://www.kaggle.com/evanmiller/pipelines-gridsearch-awesome-ml-pipelines)
+* Using pipeline to combine feature preprocessing, feature engineering methods and also ML algorithms [Pipelines + GridSearch = Awesome ML pipelines](https://www.kaggle.com/evanmiller/pipelines-gridsearch-awesome-ml-pipelines)
